@@ -20,7 +20,7 @@
 <img align="center" alt="Ste-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg">
 <img align="center" alt="Ste-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg">
 <img align="center" alt="Ste-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-<img align="center" alt="Ste-ReactNative" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OAEAIurlAXyInhBk2HkWhL9Nb7qCussPZvMMxLkyJHmY9rGN6m1T9CbzOgub3ql72ag&usqp=CAU">
+<img align="center" alt="Ste-ReactNative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
 </div>
 
