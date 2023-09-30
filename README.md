@@ -1,24 +1,17 @@
-Olá, meu nome é Stephanie Medeiros, seja bem-vindo ao meu perfil! 👋
+<h1 align="center">Olá👋, Eu sou Stephanie Medeiros</h1>
+<h3 align="center">Futura técnica em Desenvolvimento de Sistemas</h3>
+- 🌱 Eu estou estudando: HTML, CSS, Java, JavaScript, PHP, React Native e SQL.<br>
+- 📫 Contato: stephanie.silva185@etec.sp.gov.br.<br>
+- 😄 Pronomes: ela/dela.
 
-<!--
-**Phaniee/Phaniee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-    <a href="https://github.com/Phaniee">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phaniee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phaniee&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phaniee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaniee&layout=compact&theme=radical)
+
+##
       
 <div style="display: inline_block"><br>
   <img align="center" alt="Ste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
