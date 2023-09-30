@@ -2,7 +2,7 @@
 <h3 align="center">Futura técnica em Desenvolvimento de Sistemas</h3>
 - 🌱 Estou estudando: HTML, CSS, Java, JavaScript, BootStrap, PHP, React Native e SQL.<br>
 - 📫 Contato: stephanie.silva185@etec.sp.gov.br.<br>
-- 😄 Pronomes: ela/dela.
+
 
 ##
 
