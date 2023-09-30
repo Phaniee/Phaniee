@@ -8,8 +8,8 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phaniee&show_icons=true&theme=soft)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaniee&layout=compact&theme=soft)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phaniee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phaniee&layout=compact&theme=radical)
 
 <div style="display: inline_block">
       <h2>Linguagens de programação:</h2>
