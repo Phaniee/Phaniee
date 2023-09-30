@@ -25,6 +25,13 @@
 </div>
 
 ##
+
+<div style="display: inline_block">
+      <h2>IDE's:</h2>
+      <img align="center" alt="Ste-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original-wordmark.svg">
+       <img align="center" alt="Ste-Eclipse" height="30" width="40" src="https://w7.pngwing.com/pngs/631/720/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-java-eclipse-miscellaneous-logo-electric-blue-thumbnail.png">
+      
+</div>
  
 <div> 
   <a href="https://www.instagram.com/phanie_medeiros/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
