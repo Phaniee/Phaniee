@@ -1,6 +1,6 @@
 <h1 align="center">Olá👋, Eu sou Stephanie Medeiros</h1>
 <h3 align="center">Futura técnica em Desenvolvimento de Sistemas</h3>
-- 🌱 Eu estou estudando: HTML, CSS, Java, JavaScript, PHP, React Native e SQL.<br>
+- 🌱 Eu estou estudando: HTML, CSS, Java, JavaScript, BootStrap, PHP, React Native e SQL.<br>
 - 📫 Contato: stephanie.silva185@etec.sp.gov.br.<br>
 - 😄 Pronomes: ela/dela.
 
@@ -14,16 +14,18 @@
 ##
       
 <div style="display: inline_block"><br>
-      <h1>Linguagens de programação:</h1>
+      <h2>Linguagens de programação:</h2>
 <img align="center" alt="Ste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Ste-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg">
+<img align="center" alt="Ste-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original-wordmark.svg">
 <img align="center" alt="Ste-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg">
 <img align="center" alt="Ste-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg">
+<img align="center" alt="Ste-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 
 </div>
-  
-  ##
+
+##
  
 <div> 
   <a href="https://www.instagram.com/phanie_medeiros/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
