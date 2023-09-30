@@ -14,10 +14,10 @@
 ##
       
 <div style="display: inline_block"><br>
-      <h1>Linguagens:</h1>
+      <h1>Linguagens de programação:</h1>
 <img align="center" alt="Ste-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ste-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Ste-PHP" height="30" width="40" src="https://icons8.com.br/icon/13460/php">
+<img align="center" alt="Ste-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg">
 <img align="center" alt="Ste-JAVA" height="30" width="40" src="https://icons8.com.br/icon/13679/logo-java-coffee-cup">
 </div>
   
