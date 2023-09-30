@@ -1,6 +1,6 @@
 <h1 align="center">Olá👋, Eu sou Stephanie Medeiros</h1>
 <h3 align="center">Futura técnica em Desenvolvimento de Sistemas</h3>
-- 🌱 Eu estou estudando: HTML, CSS, Java, JavaScript, BootStrap, PHP, React Native e SQL.<br>
+- 🌱 Estou estudando: HTML, CSS, Java, JavaScript, BootStrap, PHP, React Native e SQL.<br>
 - 📫 Contato: stephanie.silva185@etec.sp.gov.br.<br>
 - 😄 Pronomes: ela/dela.
 
